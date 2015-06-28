@@ -27,16 +27,26 @@ a img{ border:none; }
 .clearfix { display:inline-block; }
 .clearfix { display: block; }
 
+@font-face {
+  font-family: 'proxima-nova-regular';
+  src: url('./../fonts/Proxima Nova-Regular.otf');
+}
+
+@font-face {
+  font-family: 'proxima-nova-light';
+  src: url('./../fonts/Proxima Nova-Light.otf');
+}
+
 /*----------------------------------------------------------------------------
   Main Layout
 ----------------------------------------------------------------------------*/
 
 body {
-  font-family: "proxima-nova-1", "proxima-nova-2", Arial, sans-serif;
-  font-size: 17px;
+  font-family: 'proxima-nova-light', Arial, sans-serif;
+  font-size: 18px;
   line-height: 1.4;
-  color: #333;
-  background: #f7f7fa;
+  color: #000000;
+  background: #ffffff;
   text-shadow: 0 1px 0 rgba(255,255,255,1.0);
   border-top: 4px solid #556270;
 }
@@ -58,7 +68,7 @@ hr {
   text-align: center;
   letter-spacing: 3px;
   font-size: 20px;
-  color: #ddd;
+  color: #000000;
   border: none;
 }
 hr:before {
@@ -108,7 +118,7 @@ ul.nav li {
   }
 }
 ul.nav li a {
-  color: #bbb;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -234,7 +244,6 @@ p.intro a {
 
 h1 {
   margin: 10px 0 20px 0;
-  font-size: 72px;
   line-height: 0.8;
   letter-spacing: -1px;
   color: #00000;
