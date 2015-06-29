@@ -1,5 +1,6 @@
 markdown: rdiscount
 highlighter: pygments
-permalink: /posts/:title
+permalink: /:title
 rdiscount:
   extensions: [smart]
+domain: www.yatishmehta.com
