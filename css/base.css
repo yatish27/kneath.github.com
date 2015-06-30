@@ -153,7 +153,7 @@ ul.nav li.logo a {
 
 .listing .post h2 {
   margin: 0 0 -20px 0;
-  font-size: 30px;
+  font-size: 25px;
   border: none;
 }
 
@@ -164,7 +164,7 @@ ul.nav li.logo a {
 
 .listing .post .post-summary {
   font-size: 20px;
-  color: #777;
+  color: #000000;
 }
 
 .listing .post.other {
@@ -240,7 +240,6 @@ p.intro a {
 
 h1 {
   margin: 10px 0 20px 0;
-  line-height: 0.8;
   letter-spacing: -1px;
   color: #00000;
 }
