@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Major companies using Ruby on Rails in Pune, India
-summary: Pune is a one of teh major IT hub of the country. With the popularity of Ruby on Rails and the boom of 
+summary: Pune is a one of the major IT hub of the country. With the popularity of Ruby on Rails and the boom of 
          startups, Rails is being used at many places. This is the list of companies and organizations who are use Ruby on Rails.
 ---
 

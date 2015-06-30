@@ -3,4 +3,4 @@ highlighter: pygments
 permalink: /:title
 rdiscount:
   extensions: [smart]
-domain: www.yatishmehta.com
+domain: http://www.yatishmehta.com
