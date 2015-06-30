@@ -1,6 +1,7 @@
-  markdown: rdiscount
+markdown: rdiscount
 highlighter: pygments
 permalink: /:title
 rdiscount:
   extensions: [smart]
 domain: http://www.yatishmehta.com
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
